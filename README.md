@@ -64,7 +64,7 @@ By the end of the course, students will be able to:
 
 ## Assessment
 
-### 1. Paper presentation (30%)
+**1. Paper presentation (30%)**
 
 In groups (group size depends on the final course size), you present one of the applied papers listed for the paper sessions. Papers and groups are assigned during the first sessions. Each presentation is followed by a class discussion. Grades are given per group.
 
@@ -79,7 +79,7 @@ The presentation should cover:
 
 Presentation length and the deadline for submitting slides will be announced and depend on the course size.
 
-### 2. Written exam (70%)
+**2. Written exam (70%)**
 
 4 February 2027, in class. The exam is on the concepts we work through in all sessions.
 
