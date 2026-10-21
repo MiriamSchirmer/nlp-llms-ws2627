@@ -36,28 +36,29 @@ By the end of the course, students will be able to:
 
 ## Schedule
 
-| Session | Date | Type | Topic | Materials |
-|:-------:|:----:|:----:| ----- | --------- |
-| 1 | 22 Oct | ![Intro](https://img.shields.io/badge/Intro-lightgrey?style=flat-square) | [Course overview](#session-1-22-october-introduction) | [Slides](slides/01_Introduction.pdf) |
-| **Block 1: Text as Data** | | | | |
-| 2 | 29 Oct | ![Theory](https://img.shields.io/badge/Theory-4C72B0?style=flat-square) | [Text as data](#session-2-29-october-theory-text-as-data) |  |
-| 3 | 05 Nov | ![Coding](https://img.shields.io/badge/Coding-55A868?style=flat-square) | [Preprocessing, bag-of-words and dictionaries](#session-3-5-november-coding) |  |
-| 4 | 12 Nov | ![Papers](https://img.shields.io/badge/Papers-DD8452?style=flat-square) | [Paper presentations](#session-4-12-november-paper-presentations) |  |
-| **Block 2: Learning from Text** | | | | |
-| 5 | 19 Nov | ![Theory](https://img.shields.io/badge/Theory-4C72B0?style=flat-square) | [Supervised classification and topic models](#session-5-19-november-theory-supervised-classification-and-topic-models) |  |
-| 6 | 26 Nov | ![Coding](https://img.shields.io/badge/Coding-55A868?style=flat-square) | [Training and evaluating a text classifier](#session-6-26-november-coding) |  |
-| 7 | 03 Dec | ![Papers](https://img.shields.io/badge/Papers-DD8452?style=flat-square) | [Paper presentations](#session-7-3-december-paper-presentations) |  |
-| **Block 3: Embeddings and Transformers** | | | | |
-| 8 | 10 Dec | ![Theory](https://img.shields.io/badge/Theory-4C72B0?style=flat-square) | [Embeddings and transformers](#session-8-10-december-theory-embeddings-and-transformers) |  |
-| 9 | 17 Dec | ![Coding](https://img.shields.io/badge/Coding-55A868?style=flat-square) | [Word embeddings and transformer models](#session-9-17-december-coding) |  |
-|  | 24 and 31 Dec |  | *Winter break, no sessions* |  |
-| 10 | 07 Jan | ![Papers](https://img.shields.io/badge/Papers-DD8452?style=flat-square) | [Paper presentations](#session-10-7-january-paper-presentations) |  |
-| **Block 4: LLMs as Research Tools** | | | | |
-| 11 | 14 Jan | ![Theory](https://img.shields.io/badge/Theory-4C72B0?style=flat-square) | [Prompting and LLMs as annotators](#session-11-14-january-theory-prompting-and-llms-as-annotators) |  |
-| 12 | 21 Jan | ![Coding](https://img.shields.io/badge/Coding-55A868?style=flat-square) | [LLM versus classifier](#session-12-21-january-coding) |  |
-| 13 | 28 Jan | ![Papers](https://img.shields.io/badge/Papers-DD8452?style=flat-square) | [Paper presentations](#session-13-28-january-paper-presentations) |  |
-| **Exam** | | | | |
-| 14 | 04 Feb | ![Exam](https://img.shields.io/badge/Exam-C44E52?style=flat-square) | [Written exam, in class](#session-14-4-february-written-exam) |  |
+<table>
+<tr><th>Session</th><th>Date</th><th>Type</th><th>Topic</th><th>Materials</th></tr>
+<tr><td align="center">1</td><td>22 Oct</td><td><img src="https://img.shields.io/badge/Intro-lightgrey?style=flat-square" alt="Intro"></td><td><a href="#session-1-22-october-introduction">Course overview</a></td><td><a href="slides/01_Introduction.pdf">Slides</a></td></tr>
+<tr><td></td><td colspan="4"><b>Block 1: Text as Data</b></td></tr>
+<tr><td align="center">2</td><td>29 Oct</td><td><img src="https://img.shields.io/badge/Theory-4C72B0?style=flat-square" alt="Theory"></td><td><a href="#session-2-29-october-theory-text-as-data">Text as data</a></td><td></td></tr>
+<tr><td align="center">3</td><td>05 Nov</td><td><img src="https://img.shields.io/badge/Coding-55A868?style=flat-square" alt="Coding"></td><td><a href="#session-3-5-november-coding">Preprocessing, bag-of-words and dictionaries</a></td><td></td></tr>
+<tr><td align="center">4</td><td>12 Nov</td><td><img src="https://img.shields.io/badge/Papers-DD8452?style=flat-square" alt="Papers"></td><td><a href="#session-4-12-november-paper-presentations">Paper presentations</a></td><td></td></tr>
+<tr><td></td><td colspan="4"><b>Block 2: Learning from Text</b></td></tr>
+<tr><td align="center">5</td><td>19 Nov</td><td><img src="https://img.shields.io/badge/Theory-4C72B0?style=flat-square" alt="Theory"></td><td><a href="#session-5-19-november-theory-supervised-classification-and-topic-models">Supervised classification and topic models</a></td><td></td></tr>
+<tr><td align="center">6</td><td>26 Nov</td><td><img src="https://img.shields.io/badge/Coding-55A868?style=flat-square" alt="Coding"></td><td><a href="#session-6-26-november-coding">Training and evaluating a text classifier</a></td><td></td></tr>
+<tr><td align="center">7</td><td>03 Dec</td><td><img src="https://img.shields.io/badge/Papers-DD8452?style=flat-square" alt="Papers"></td><td><a href="#session-7-3-december-paper-presentations">Paper presentations</a></td><td></td></tr>
+<tr><td></td><td colspan="4"><b>Block 3: Embeddings and Transformers</b></td></tr>
+<tr><td align="center">8</td><td>10 Dec</td><td><img src="https://img.shields.io/badge/Theory-4C72B0?style=flat-square" alt="Theory"></td><td><a href="#session-8-10-december-theory-embeddings-and-transformers">Embeddings and transformers</a></td><td></td></tr>
+<tr><td align="center">9</td><td>17 Dec</td><td><img src="https://img.shields.io/badge/Coding-55A868?style=flat-square" alt="Coding"></td><td><a href="#session-9-17-december-coding">Word embeddings and transformer models</a></td><td></td></tr>
+<tr><td align="center"></td><td>24 and 31 Dec</td><td></td><td><i>Winter break, no sessions</i></td><td></td></tr>
+<tr><td align="center">10</td><td>07 Jan</td><td><img src="https://img.shields.io/badge/Papers-DD8452?style=flat-square" alt="Papers"></td><td><a href="#session-10-7-january-paper-presentations">Paper presentations</a></td><td></td></tr>
+<tr><td></td><td colspan="4"><b>Block 4: LLMs as Research Tools</b></td></tr>
+<tr><td align="center">11</td><td>14 Jan</td><td><img src="https://img.shields.io/badge/Theory-4C72B0?style=flat-square" alt="Theory"></td><td><a href="#session-11-14-january-theory-prompting-and-llms-as-annotators">Prompting and LLMs as annotators</a></td><td></td></tr>
+<tr><td align="center">12</td><td>21 Jan</td><td><img src="https://img.shields.io/badge/Coding-55A868?style=flat-square" alt="Coding"></td><td><a href="#session-12-21-january-coding">LLM versus classifier</a></td><td></td></tr>
+<tr><td align="center">13</td><td>28 Jan</td><td><img src="https://img.shields.io/badge/Papers-DD8452?style=flat-square" alt="Papers"></td><td><a href="#session-13-28-january-paper-presentations">Paper presentations</a></td><td></td></tr>
+<tr><td></td><td colspan="4"><b>Exam</b></td></tr>
+<tr><td align="center">14</td><td>04 Feb</td><td><img src="https://img.shields.io/badge/Exam-C44E52?style=flat-square" alt="Exam"></td><td><a href="#session-14-4-february-written-exam">Written exam, in class</a></td><td></td></tr>
+</table>
 
 ---
 
@@ -200,7 +201,7 @@ How to add materials (this comment is not shown on GitHub):
 1. Export the slides from PowerPoint as PDF (File > Export > PDF), name them like 02_Text_as_Data.pdf
    and upload them to slides/.
 2. Upload notebooks to notebooks/, e.g. notebooks/03_Preprocessing.ipynb.
-3. In the schedule table, fill the Materials cell of that session, for example:
-   [Slides](slides/02_Text_as_Data.pdf)
-   [Notebook](notebooks/03_Preprocessing.ipynb) [Open in Colab](https://colab.research.google.com/github/MiriamSchirmer/nlp-llms-ws2627/blob/main/notebooks/03_Preprocessing.ipynb)
+3. In the schedule table, put the links into the last <td></td> (Materials) of that session's row, for example:
+   <a href="slides/02_Text_as_Data.pdf">Slides</a>
+   <a href="notebooks/03_Preprocessing.ipynb">Notebook</a> <a href="https://colab.research.google.com/github/MiriamSchirmer/nlp-llms-ws2627/blob/main/notebooks/03_Preprocessing.ipynb">Open in Colab</a>
 -->
