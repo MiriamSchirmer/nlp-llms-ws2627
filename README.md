@@ -96,12 +96,12 @@ Please read both before the theory session.
 
 The papers for the paper sessions are applied studies from political science and computational social science. Presenters read their paper in depth; everyone else should at least skim the papers before the session. All readings are freely accessible.
 
-### Session 1 (22 October). Introduction
+#### Session 1 (22 October). Introduction
 
 This session introduces the course.
 
 <details open>
-<summary><b>Block 1: Text as Data</b> (sessions 2 to 4)</summary>
+<summary><img src="https://img.shields.io/badge/Block%201-Text%20as%20Data-34495E?style=flat-square" alt="Block 1: Text as Data" height="36"> &nbsp;sessions 2 to 4</summary>
 
 #### Session 2 (29 October). Theory: Text as data
 
@@ -129,7 +129,7 @@ This session introduces the course.
 </details>
 
 <details open>
-<summary><b>Block 2: Learning from Text</b> (sessions 5 to 7)</summary>
+<summary><img src="https://img.shields.io/badge/Block%202-Learning%20from%20Text-34495E?style=flat-square" alt="Block 2: Learning from Text" height="36"> &nbsp;sessions 5 to 7</summary>
 
 #### Session 5 (19 November). Theory: Supervised classification and topic models
 
@@ -159,7 +159,7 @@ We then look briefly at topic models (LDA) as the unsupervised contrast.
 </details>
 
 <details open>
-<summary><b>Block 3: Embeddings and Transformers</b> (sessions 8 to 10)</summary>
+<summary><img src="https://img.shields.io/badge/Block%203-Embeddings%20and%20Transformers-34495E?style=flat-square" alt="Block 3: Embeddings and Transformers" height="36"> &nbsp;sessions 8 to 10</summary>
 
 #### Session 8 (10 December). Theory: Embeddings and transformers
 
@@ -188,7 +188,7 @@ We then look briefly at topic models (LDA) as the unsupervised contrast.
 </details>
 
 <details open>
-<summary><b>Block 4: LLMs as Research Tools</b> (sessions 11 to 13)</summary>
+<summary><img src="https://img.shields.io/badge/Block%204-LLMs%20as%20Research%20Tools-34495E?style=flat-square" alt="Block 4: LLMs as Research Tools" height="36"> &nbsp;sessions 11 to 13</summary>
 
 #### Session 11 (14 January). Theory: Prompting and LLMs as annotators
 
@@ -215,7 +215,7 @@ We then look briefly at topic models (LDA) as the unsupervised contrast.
 
 </details>
 
-### Session 14 (4 February). Written exam
+#### Session 14 (4 February). Written exam
 
 In class, 11:45–13:15, C424.
 
