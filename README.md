@@ -1,10 +1,12 @@
 # Introduction to Natural Language Processing and LLMs
 
-**Universität Konstanz, Winter Semester 2026/27**
+**University of Konstanz, Winter Semester 2026/27**
 Thursdays, 11:45–13:15, C424
 
 **Instructor:** Miriam Schirmer (miriam.schirmer@uni-konstanz.de)
+
 **Office hours:** by appointment; please email to arrange a time
+
 **Course type:** BA VS / MA S, taught in English
 
 ---
