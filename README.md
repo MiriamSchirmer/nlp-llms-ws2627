@@ -40,7 +40,7 @@ By the end of the course, students will be able to:
 <tr><th>Session</th><th>Date</th><th>Type</th><th>Topic</th><th>Materials</th></tr>
 <tr><td align="center">1</td><td>22 Oct</td><td><img src="https://img.shields.io/badge/Intro-lightgrey?style=flat-square" alt="Intro"></td><td><a href="#session-1-22-october-introduction">Course overview</a></td><td><a href="slides/Session01_Intro_BA_NLP_LLMs.pdf">Slides</a></td></tr>
 <tr><td></td><td colspan="4"><b>Block 1: Text as Data</b></td></tr>
-<tr><td align="center">2</td><td>29 Oct</td><td><img src="https://img.shields.io/badge/Theory-4C72B0?style=flat-square" alt="Theory"></td><td><a href="#session-2-29-october-theory-text-as-data">Text as data</a></td><td></td></tr>
+<tr><td align="center">2</td><td>29 Oct</td><td><img src="https://img.shields.io/badge/Theory-4C72B0?style=flat-square" alt="Theory"></td><td><a href="#session-2-29-october-theory-text-as-data">Text as data</a></td><td><a href="slides/Session02_TextData_BA_NLP_LLMs.pdf">Slides</a></td></tr>
 <tr><td align="center">3</td><td>05 Nov</td><td><img src="https://img.shields.io/badge/Coding-55A868?style=flat-square" alt="Coding"></td><td><a href="#session-3-5-november-coding">Preprocessing, bag-of-words and dictionaries</a></td><td></td></tr>
 <tr><td align="center">4</td><td>12 Nov</td><td><img src="https://img.shields.io/badge/Papers-DD8452?style=flat-square" alt="Papers"></td><td><a href="#session-4-12-november-paper-presentations">Paper presentations</a></td><td></td></tr>
 <tr><td></td><td colspan="4"><b>Block 2: Learning from Text</b></td></tr>
