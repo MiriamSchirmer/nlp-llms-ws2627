@@ -66,7 +66,7 @@ By the end of the course, students will be able to:
 
 **1. Paper presentation (30%)**
 
-In groups (group size depends on the final course size), you present one of the applied papers listed for the paper sessions. Papers and groups are assigned during the first sessions. Each presentation is followed by a class discussion. Grades are given per group.
+Individually or in pairs, you present one of the applied papers listed for the paper sessions. Sign-up is first come, first served, with at most two presentations per paper session. If you would like to work in a pair but don't have a partner yet, let me know. Each presentation is followed by a class discussion. Pairs receive a joint grade.
 
 The presentation should cover:
 
@@ -76,6 +76,8 @@ The presentation should cover:
 - the main findings;
 - the limitations (would you trust this measurement?);
 - and two or three questions to start the discussion.
+
+If something in the paper is unclear, ask me: it may not be relevant for the presentation.
 
 Presentation length and the deadline for submitting slides will be announced and depend on the course size.
 
@@ -107,7 +109,7 @@ This session introduces the course.
 
 *How can text be turned into numbers?*
 
-**Topics:** Preprocessing (tokenization, stopwords, stemming), the bag-of-words model, TF-IDF weighting and dictionary methods.
+**Topics:** Text as text vs. text as data, words and tokens (rule-based and subword tokenization), preprocessing (e.g. lowercasing, lemmatization, stopword removal), regular expressions and lexicons (dictionary methods).
 
 **Read before class:**
 
@@ -117,6 +119,8 @@ This session introduces the course.
 #### Session 3 (5 November). Coding
 
 **In class:** Hands-on notebook on preprocessing, bag-of-words and dictionaries.
+
+**Before class:** Bring a laptop. You need a Google account to use Colab (a separate account just for this course is fine); please open [colab.research.google.com](https://colab.research.google.com) once before the session. The notebook will be linked in the schedule above.
 
 #### Session 4 (12 November). Paper presentations
 
