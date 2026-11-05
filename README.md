@@ -41,7 +41,7 @@ By the end of the course, students will be able to:
 <tr><td align="center">1</td><td>22 Oct</td><td><img src="https://img.shields.io/badge/Intro-lightgrey?style=flat-square" alt="Intro"></td><td><a href="#session-1-22-october-introduction">Course overview</a></td><td><a href="slides/Session01_Intro_BA_NLP_LLMs.pdf">Slides</a></td></tr>
 <tr><td></td><td colspan="4"><b>Block 1: Text as Data</b></td></tr>
 <tr><td align="center">2</td><td>29 Oct</td><td><img src="https://img.shields.io/badge/Theory-4C72B0?style=flat-square" alt="Theory"></td><td><a href="#session-2-29-october-theory-text-as-data">Text as data</a></td><td><a href="slides/Session02_TextData_BA_NLP_LLMs.pdf">Slides</a></td></tr>
-<tr><td align="center">3</td><td>05 Nov</td><td><img src="https://img.shields.io/badge/Coding-55A868?style=flat-square" alt="Coding"></td><td><a href="#session-3-5-november-coding">Preprocessing, bag-of-words and dictionaries</a></td><td></td></tr>
+<tr><td align="center">3</td><td>05 Nov</td><td><img src="https://img.shields.io/badge/Coding-55A868?style=flat-square" alt="Coding"></td><td><a href="#session-3-5-november-coding">Preprocessing, dictionaries and sentiment analysis</a></td><td></td></tr>
 <tr><td align="center">4</td><td>12 Nov</td><td><img src="https://img.shields.io/badge/Papers-DD8452?style=flat-square" alt="Papers"></td><td><a href="#session-4-12-november-paper-presentations">Paper presentations</a></td><td></td></tr>
 <tr><td></td><td colspan="4"><b>Block 2: Learning from Text</b></td></tr>
 <tr><td align="center">5</td><td>19 Nov</td><td><img src="https://img.shields.io/badge/Theory-4C72B0?style=flat-square" alt="Theory"></td><td><a href="#session-5-19-november-theory-supervised-classification-and-topic-models">Supervised classification and topic models</a></td><td></td></tr>
@@ -118,7 +118,7 @@ This session introduces the course.
 
 #### Session 3 (5 November). Coding
 
-**In class:** Hands-on notebook on preprocessing, bag-of-words and dictionaries.
+**In class:** Hands-on notebook on tokenization, preprocessing, part-of-speech tagging, dictionaries and sentiment analysis with VADER.
 
 **Before class:** Bring a laptop. You need a Google account to use Colab (a separate account just for this course is fine); please open [colab.research.google.com](https://colab.research.google.com) once before the session. The notebook will be linked in the schedule above.
 
