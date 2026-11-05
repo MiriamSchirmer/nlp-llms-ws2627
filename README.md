@@ -66,7 +66,7 @@ By the end of the course, students will be able to:
 
 **1. Paper presentation (30%)**
 
-Individually or in pairs, you present one of the applied papers listed for the paper sessions. Sign-up is first come, first served, with at most two presentations per paper session. If you would like to work in a pair but don't have a partner yet, let me know. Each presentation is followed by a class discussion. Pairs receive a joint grade.
+Individually or in pairs, you present one of the applied papers listed for the paper sessions. Sign-up is first come, first served, with at most two presentations per paper session; in sessions with three papers, one paper is not presented. If you would like to work in a pair but don't have a partner yet, let me know. Pairs receive a joint grade.
 
 The presentation should cover:
 
@@ -75,11 +75,13 @@ The presentation should cover:
 - the method, explained in your own words and linked to the theory session of the block;
 - the main findings;
 - the limitations (would you trust this measurement?);
-- and two or three questions to start the discussion.
+- and an interactive part that you lead, for example a class discussion or a small group exercise.
 
 If something in the paper is unclear, ask me: it may not be relevant for the presentation.
 
-Presentation length and the deadline for submitting slides will be announced and depend on the course size.
+Presentations take about 15 minutes if you present alone and at most 25 minutes if you present in a pair. The interactive part takes about 15 minutes.
+
+**Grading:** understanding of the paper, especially the method (40%); critical assessment of data and limitations (25%); structure, clarity and timing (20%); the interactive part (15%).
 
 **2. Written exam (70%)**
 
