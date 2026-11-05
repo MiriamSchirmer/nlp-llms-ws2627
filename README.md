@@ -81,6 +81,8 @@ If something in the paper is unclear, ask me: it may not be relevant for the pre
 
 Presentations take about 15 minutes if you present alone and at most 25 minutes if you present in a pair. The interactive part takes about 15 minutes.
 
+Please email me your slides by Wednesday, the day before your session. I upload them to GitHub, so you may send an anonymised version (without your name). In the email, let me know whether you are OK with your slides being on GitHub; otherwise I upload them to ILIAS instead.
+
 **Grading:** understanding of the paper, especially the method (40%); critical assessment of data and limitations (25%); structure, clarity and timing (20%); the interactive part (15%).
 
 **2. Written exam (70%)**
