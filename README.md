@@ -42,7 +42,7 @@ By the end of the course, students will be able to:
 <tr><td></td><td colspan="4"><b>Block 1: Text as Data</b></td></tr>
 <tr><td align="center">2</td><td>29 Oct</td><td><img src="https://img.shields.io/badge/Theory-4C72B0?style=flat-square" alt="Theory"></td><td><a href="#session-2-29-october-theory-text-as-data">Text as data</a></td><td><a href="slides/Session02_TextData_BA_NLP_LLMs.pdf">Slides</a></td></tr>
 <tr><td align="center">3</td><td>05 Nov</td><td><img src="https://img.shields.io/badge/Coding-55A868?style=flat-square" alt="Coding"></td><td><a href="#session-3-5-november-coding">Preprocessing, dictionaries and sentiment analysis</a></td><td><a href="https://colab.research.google.com/github/MiriamSchirmer/nlp-llms-ws2627/blob/main/notebooks/1_Preprocessing_Sentiment.ipynb">Notebook (Colab)</a></td></tr>
-<tr><td align="center">4</td><td>12 Nov</td><td><img src="https://img.shields.io/badge/Papers-DD8452?style=flat-square" alt="Papers"></td><td><a href="#session-4-12-november-paper-presentations">Paper presentations</a></td><td></td></tr>
+<tr><td align="center">4</td><td>12 Nov</td><td><img src="https://img.shields.io/badge/Papers-DD8452?style=flat-square" alt="Papers"></td><td><a href="#session-4-12-november-paper-presentations">Paper presentations</a></td><td><a href="presentations/Presentation_Rauh2023.pdf">Rauh</a>, <a href="presentations/Presentation_Gruendl2022.pdf">Gründl</a></td></tr>
 <tr><td></td><td colspan="4"><b>Block 2: Learning from Text</b></td></tr>
 <tr><td align="center">5</td><td>19 Nov</td><td><img src="https://img.shields.io/badge/Theory-4C72B0?style=flat-square" alt="Theory"></td><td><a href="#session-5-19-november-theory-supervised-classification-and-topic-models">Supervised classification and topic models</a></td><td></td></tr>
 <tr><td align="center">6</td><td>26 Nov</td><td><img src="https://img.shields.io/badge/Coding-55A868?style=flat-square" alt="Coding"></td><td><a href="#session-6-26-november-coding">Training and evaluating a text classifier</a></td><td></td></tr>
@@ -130,8 +130,8 @@ This session introduces the course.
 
 **Papers to present:**
 
-1. Rauh, C. (2023). Clear messages to the European public? The language of European Commission press releases 1985–2020. *Journal of European Integration* 45 (4): 683–701. [Link](https://doi.org/10.1080/07036337.2022.2134860)
-1. Gründl, J. (2022). Populist ideas on social media: A dictionary-based measurement of populist communication. *New Media & Society* 24 (6): 1481–1499. [Link](https://doi.org/10.1177/1461444820976970)
+1. Rauh, C. (2023). Clear messages to the European public? The language of European Commission press releases 1985–2020. *Journal of European Integration* 45 (4): 683–701. [Link](https://doi.org/10.1080/07036337.2022.2134860), [Slides](presentations/Presentation_Rauh2023.pdf)
+1. Gründl, J. (2022). Populist ideas on social media: A dictionary-based measurement of populist communication. *New Media & Society* 24 (6): 1481–1499. [Link](https://doi.org/10.1177/1461444820976970), [Slides](presentations/Presentation_Gruendl2022.pdf)
 1. Kittel, R.C. (2025). Simply Speaking? Language Complexity among (Non-)Populist Actors in Parliamentary Debates. *Government and Opposition* 60 (4): 1336–1366. [Link](https://doi.org/10.1017/gov.2025.4)
 
 </details>
