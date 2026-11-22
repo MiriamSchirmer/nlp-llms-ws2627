@@ -149,7 +149,7 @@ This session introduces the course.
 
 1. Jurafsky, D. & Martin, J.H. (2026). Logistic Regression and Text Classification. *Speech and Language Processing*. 3rd ed. draft, ch. 4. [PDF](https://web.stanford.edu/~jurafsky/slp3/4.pdf)
 2. [optional, see paragraphs on Bag of Words and TF-IDF] Jurafsky, D. & Martin, J.H. (2026). Logistic Regression and Text Classification. *Speech and Language Processing*. 3rd ed. draft, ch. 11. [PDF](https://web.stanford.edu/~jurafsky/slp3/11.pdf)]
-- van Atteveldt, W., van der Velden, M.A.C.G. & Boukes, M. (2021). The Validity of Sentiment Analysis: Comparing Manual Annotation, Crowd-Coding, Dictionary Approaches, and Machine Learning Algorithms. *Communication Methods and Measures* 15 (2): 121–140. [Link](https://doi.org/10.1080/19312458.2020.1869198)
+3. van Atteveldt, W., van der Velden, M.A.C.G. & Boukes, M. (2021). The Validity of Sentiment Analysis: Comparing Manual Annotation, Crowd-Coding, Dictionary Approaches, and Machine Learning Algorithms. *Communication Methods and Measures* 15 (2): 121–140. [Link](https://doi.org/10.1080/19312458.2020.1869198)
 
 #### Session 6 (26 November). Coding
 
@@ -171,8 +171,6 @@ This session introduces the course.
 #### Session 8 (10 December). Theory: Embeddings and transformers
 
 *How do models represent meaning?*
-
-**Topics:** Word embeddings and the biases they encode, the intuition behind attention, and the step from BERT to GPT-style models.
 
 **Read before class:**
 
@@ -201,7 +199,7 @@ This session introduces the course.
 
 *How can researchers use LLMs, and what can go wrong?*
 
-**Topics:** Prompting, zero-shot and few-shot learning, the use of LLMs as annotators, and questions of validity and reproducibility.
+**Topics:** Prompting, zero-shot and few-shot learning, the use of LLMs as annotators, validity and reproducibility.
 
 **Read before class:**
 
