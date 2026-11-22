@@ -139,17 +139,16 @@ This session introduces the course.
 <details open>
 <summary><img src="https://img.shields.io/badge/Block%202-Learning%20from%20Text-34495E?style=flat-square" alt="Block 2: Learning from Text" height="36"> &nbsp;sessions 5 to 7</summary>
 
-#### Session 5 (19 November). Theory: Supervised classification and topic models
+#### Session 5 (19 November). Theory: Supervised classification
 
 *How can computers learn categories from examples?*
 
 **Topics:** Supervised classification, the annotation of training data and evaluation with precision, recall and F1.
 
-We then look briefly at topic models (LDA) as the unsupervised contrast.
-
 **Read before class:**
 
 1. Jurafsky, D. & Martin, J.H. (2026). Logistic Regression and Text Classification. *Speech and Language Processing*. 3rd ed. draft, ch. 4. [PDF](https://web.stanford.edu/~jurafsky/slp3/4.pdf)
+2. [optional, see paragraphs on Bag of Words and TF-IDF] Jurafsky, D. & Martin, J.H. (2026). Logistic Regression and Text Classification. *Speech and Language Processing*. 3rd ed. draft, ch. 11. [PDF](https://web.stanford.edu/~jurafsky/slp3/11.pdf)]
 - van Atteveldt, W., van der Velden, M.A.C.G. & Boukes, M. (2021). The Validity of Sentiment Analysis: Comparing Manual Annotation, Crowd-Coding, Dictionary Approaches, and Machine Learning Algorithms. *Communication Methods and Measures* 15 (2): 121–140. [Link](https://doi.org/10.1080/19312458.2020.1869198)
 
 #### Session 6 (26 November). Coding
